@@ -1,6 +1,6 @@
 # Hi there, I am Kumar Sarvesh 👋
  - I love to WRITE CODE.
- - I am a Web Developer currently doing intership at iNeuron.
+ - I am a Web Developer currently doing internship at iNeuron in JAVASCRIPT FULL STACK.
  - I enjoy working with the technologies which include ReactJs, mongodb, Linux etc
  - Pronouns: He/Him
  - Reach me at: 
