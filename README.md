@@ -1,4 +1,8 @@
 # Hi there, I am Kumar Sarvesh 👋
+ I love to WRITE CODE
+ I am a Web Developer currently doing intership at iNeuron.
+ I enjoy working with the technologies which include ReactJs, mongodb, Linux etc
+
 
 <img align="left" width= "" height="140px" src="https://github-readme-stats.vercel.app/api?username=kr-sarvesh&hide=contribs,prs&show_icons=true&theme=synthwave" />
 
