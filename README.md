@@ -8,11 +8,7 @@
     👤 https://twitter.com/sarveshcoder
    
     🔶 https://www.linkedin.com/in/sarveshcoder/
-   
-
-<img align="left" width= "" height="140px" src="https://github-readme-stats.vercel.app/api?username=kr-sarvesh&hide=contribs,prs&show_icons=true&theme=synthwave" />
-
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kr-sarvesh&layout=compact)
+ 
 
 ## Languages and Tools
 
